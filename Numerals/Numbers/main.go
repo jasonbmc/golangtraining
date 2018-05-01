@@ -7,5 +7,4 @@ func main() {
 	fmt.Printf("%d - %b \n", 42, 42)
 	fmt.Printf("%x - %b \n", 42, 42)
 	fmt.Printf("%#x - %b \n", 42, 42)
-
 }
